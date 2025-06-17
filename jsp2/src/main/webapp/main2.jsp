@@ -8,14 +8,7 @@
 </head>
 <body>
 
-jsp2 프로젝트
-??
-수정ㅇㅇ
-<<<<<<< HEAD
-dfdgss
-=======
-수정ㅇㅇ
+main2.jsp 파일(user1 브랜치)
 
->>>>>>> user1
 </body>
 </html>
